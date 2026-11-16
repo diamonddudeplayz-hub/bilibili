@@ -40,6 +40,19 @@
 4. **Buyback is convert-funded, not FCF-funded** (H1 FCF can't cover $300M+ buyback + capex).
 5. Cash optically −7B to 5.2B but just reclassified into time deposits; **gross cash RMB 24.3B intact** — not burn.
 
+## Management's forward guidance (from the Q2 call, 27 Aug) — what to re-confirm on 24 Nov
+Chinese ADRs rarely give numeric guidance; this is the qualitative steer, and all four legs support the thesis:
+1. **Games (most concrete — Sam Fan):** *"robust pipeline of 5 new titles... We are confident that our gaming revenue will **resume a year-over-year growth trend starting in the fourth quarter**."* Chen: *"second half to next year will be our **harvesting season** for games."* Lumi (Sept 17 global), San Wang (Q4), NCard (S2 Oct); RO3 + Ravages of Time + Mistbound in 2027. **→ The Q4 gaming inflection is explicit management guidance, not just our model.**
+2. **Ads (Ni Li):** acknowledged *"challenging macro"* / softer H2 base, but *"we still remain quite confident about our continuous growth for our ad business."* Drivers: multi-scenario ad rev +50% H1, AI vertical +100%, new verticals +60%, advertiser base +14%, search doubled.
+3. **Margin (Sam Fan):** *"mid- to long-term target remains unchanged, **GPM 40–45% and operating margin 15–20%**"*; *"operating leverage continued to expand... highly confident in future profitability improvement."* **→ directly backs the margin thesis.**
+4. **AI capex (Sam Fan):** RMB 1B *"well on track,"* **70–80% deployed in H1**, FY26 R&D impact RMB 500M *"remain unchanged."* **→ the drag is bounded and front-loaded → H2/FY27 margin relief.**
+
+**Listen for on 24 Nov:** does management **reaffirm "gaming resumes YoY growth in Q4"** + San Wang launch timing/confidence; how they characterise the **H2 ad trajectory** vs macro; **margin-target reaffirmation**; and updated **buyback/capital return** post-convert.
+
+## The tape / who's still selling
+- **Technicals:** clear downtrend. US$12.74, **below the 200-week MA (US$18.66)** and all shorter MAs; testing the **~US$12.6 floor** (early-Nov low, ≈ 52-wk low HK$99.10). A mid-Nov bounce to ~$14.5 **failed and faded back** → retesting support, not yet a confirmed bottom. Floor is only confirmed on a **hold + reclaim of ~$14.5** (ideally post-earnings); a break of $12.6 opens a lower leg. This is "falling knife testing support into a binary catalyst" — fine for a contrarian *starter*, but the signal to *add* is confirmation, not the test.
+- **Who's selling (it's not conviction longs at a loss):** convert-arb delta hedging (mechanical, not loss-driven), **US tax-loss harvesting** (BILI −49% YTD is a prime Nov–Dec candidate — this pressure typically exhausts by late Dec and can reverse into January), passive/index outflows as China weight shrinks, and some 12-year capitulation. **None of it is fundamental** (Q2 beat). Non-fundamental selling into a catalyst that tends to exhaust = the bull setup.
+
 ## Positioning into the print
 Starter (not full): overhang already resolved (better than modelled), stock below the Sep placement clear and below every PT, drop explained by beta + buyback-blackout. But Q3 is a coin-flip on the ad line into a hostile tape, and Darren's EPS sits above street so a soft ad guide pushes consensus *further* from the model. **Half now, add on the post-print gap / once buyback resumes** — maps to the report's "deploy half, add on weakness," just 30 points lower than planned.
 
