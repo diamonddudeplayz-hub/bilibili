@@ -19,6 +19,9 @@ Working notes for the Bilibili starter-position decision. Live research record; 
 | [positioning.md](positioning.md) | Beta vs alpha decomposition, ADR vs HK, index-vs-single-name, the China/Goldman catalyst + money-flow watchlist |
 | [nasdaq-vs-hstech.md](nasdaq-vs-hstech.md) | 12-yr HSTECH vs Nasdaq correlation & regime — the decoupling, the diversifier argument |
 | [final-call.md](final-call.md) | **The verdict** — start it, small, ADR, half now/half on confirmation; risks & break conditions |
+| [peer-comps-and-target.md](peer-comps-and-target.md) | Jurisdiction discount, NetEase-vs-BILI (not interchangeable), honed 3Q26E, Q3→target grid |
+
+**Workbook:** `research/q3_2026_scorecard.xlsx` — standalone; fill the ACTUAL column on 24 Nov, variances auto-compute; 2nd tab = target sensitivity. (Kept separate from the main model to avoid touching its formulas.)
 
 ## One-line state of the thesis
 Intact and Q2-confirmed. Overhang leg **resolved early** (Tencent repurchase closed 5 Nov). Stock is down on **sector beta**, not company deterioration. Priced for ~zero growth (4–6x ex-cash FY27). Risk = ad deceleration into a weak macro; the gaming pipeline + AI ad-efficiency are the offsets. Upside to the PTs is a **multiple re-rate** (Goldman's southbound call), not an earnings bet.
