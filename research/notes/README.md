@@ -20,6 +20,8 @@ Working notes for the Bilibili starter-position decision. Live research record; 
 | [nasdaq-vs-hstech.md](nasdaq-vs-hstech.md) | 12-yr HSTECH vs Nasdaq correlation & regime — the decoupling, the diversifier argument |
 | [final-call.md](final-call.md) | **The verdict** — start it, small, ADR, half now/half on confirmation; risks & break conditions |
 | [peer-comps-and-target.md](peer-comps-and-target.md) | Jurisdiction discount, NetEase-vs-BILI (not interchangeable), honed 3Q26E, Q3→target grid |
+| [margin-thesis.md](margin-thesis.md) | **Why our margins sit above the street** — the core of the BILI-over-NetEase bet |
+| [southbound-flows.md](southbound-flows.md) | Positioning spectrum (UW→neutral→OW), southbound data sources, the turn signal |
 
 **Workbook:** `research/q3_2026_scorecard.xlsx` — standalone; fill the ACTUAL column on 24 Nov, variances auto-compute; 2nd tab = target sensitivity. (Kept separate from the main model to avoid touching its formulas.)
 
