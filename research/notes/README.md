@@ -16,7 +16,9 @@ Working notes for the Bilibili starter-position decision. Live research record; 
 | [valuation.md](valuation.md) | Reverse valuation — what's priced in at US$12.73, bridge to the PTs, implied discount rate |
 | [tencent-deal.md](tencent-deal.md) | The Sept convert / placement / buyback package; overhang resolution (closed 5 Nov) |
 | [q3-2026-preview.md](q3-2026-preview.md) | Street Q3 estimates, what to watch on 24 Nov, the ad line |
-| [positioning.md](positioning.md) | Beta vs alpha decomposition, ADR vs HK, index-vs-single-name, the China/Goldman catalyst |
+| [positioning.md](positioning.md) | Beta vs alpha decomposition, ADR vs HK, index-vs-single-name, the China/Goldman catalyst + money-flow watchlist |
+| [nasdaq-vs-hstech.md](nasdaq-vs-hstech.md) | 12-yr HSTECH vs Nasdaq correlation & regime — the decoupling, the diversifier argument |
+| [final-call.md](final-call.md) | **The verdict** — start it, small, ADR, half now/half on confirmation; risks & break conditions |
 
 ## One-line state of the thesis
 Intact and Q2-confirmed. Overhang leg **resolved early** (Tencent repurchase closed 5 Nov). Stock is down on **sector beta**, not company deterioration. Priced for ~zero growth (4–6x ex-cash FY27). Risk = ad deceleration into a weak macro; the gaming pipeline + AI ad-efficiency are the offsets. Upside to the PTs is a **multiple re-rate** (Goldman's southbound call), not an earnings bet.

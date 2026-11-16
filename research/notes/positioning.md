@@ -45,4 +45,16 @@ This is the concrete, named version of "what makes money flow into China":
 
 **The tell already flashing:** RMB at **6.63/USD** is RMB *strength* — historically the single best coincident signal that capital has stopped leaving China. One leading indicator is already moving.
 
-**Leading indicators to watch for the re-rate:** southbound net buying (HK tech), RMB trend, US-China rate gap / Fed, Taiwan/tariff headlines, and structurally — any reversal of the "EM ex-China" mandate proliferation (that's when Western active money returns).
+### Money-flow watchlist (what to actually track for the re-rate)
+Goldman's thesis rests on trackable mechanisms, not vibes. Monitor, roughly in order of signal quality:
+1. **Southbound net buying (HKEX daily Stock Connect data)** — the most direct "money flowing in" gauge. Watch the trend and whether it's running toward the ~$100bn/yr pace.
+2. **RMB (USD/CNY)** — already 6.63 = strength. The best coincident macro signal (firming RMB = capital staying/returning). Watch for sustained <6.8, moves toward 6.5.
+3. **US–China rate gap / Fed path** — Fed cutting + stable China yields narrows the carry pulling money *out*.
+4. **EPFR / fund-flow data** — whether Western *active* money (not just passive) turns positive. Currently the missing leg.
+5. **"EM ex-China" mandate reversal** — any sign allocators re-fold China into EM benchmarks. Slow, structural, but the big one.
+6. **Policy signals** — Central Economic Work Conference (December), Politburo tone, consumption/platform-support language.
+7. **Internet-sector earnings revisions** — consensus NTM EPS revisions turning up = bottom-up confirmation of Goldman's −3%→+18% call.
+8. **Corporate buyback/cancellation pace** — the record RMB 4.1tn cash-return theme; BILI itself is a microcosm (Tencent buyback/cancel).
+9. **HSTECH breaking its downtrend** — technical confirmation (reclaiming the 200-day / prior resistance).
+
+**Why it's Goldman's thesis (the logic chain):** (1) valuation floor — MSCI China 9.8x, <10x historically → 85% positive 12M; (2) earnings inflection — internet −3%→+18% as food-delivery losses (RMB 190bn cumulative) roll off + AI/cloud grows; (3) flows — southbound $100bn, insurance up, buybacks RMB 4.1tn; (4) A→H rotation — A-shares overheated on AI hard-tech (growth decelerating 85%→46%, crowded).
