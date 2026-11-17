@@ -56,5 +56,11 @@ Chinese ADRs rarely give numeric guidance; this is the qualitative steer, and al
 ## Positioning into the print
 Starter (not full): overhang already resolved (better than modelled), stock below the Sep placement clear and below every PT, drop explained by beta + buyback-blackout. But Q3 is a coin-flip on the ad line into a hostile tape, and Darren's EPS sits above street so a soft ad guide pushes consensus *further* from the model. **Half now, add on the post-print gap / once buyback resumes** — maps to the report's "deploy half, add on weakness," just 30 points lower than planned.
 
+## Update — 17 Nov 2026 (pre-Q3)
+- **San Wang / "Three Kings" open beta CONFIRMED 24 Dec 2026** (= commercial launch). In line with mgmt guidance + MS. MS forecasts ~RMB 1.5bn annualised, character-based monetisation, RMB 500M R&D invested. **The key gaming catalyst is now dated.**
+- **Tape:** floor broke — ADR ~US$12.66 (−4.5%), HK$97.25 (−6.6%), *below* the HK$99 52-wk low / ~$12.6 support. HSTECH −1.1% (sector risk-off). Classic **sell-the-news** (the San Wang date was *expected*, no positive surprise to hold a weak tape) + tax-loss season. Not a thesis break — fundamentals fine, catalyst confirmed → this is the **"add lower"** scenario, not the "confirmation" one.
+- **Macquarie downgraded to Hold, PT US$30 → US$13.9** (≈ spot) — a near-term "dead money / no catalyst" call, not a fundamental break. Consensus still ~74% Strong Buy / 26% Buy (HK line).
+- **Options:** bullish flow underneath — $104K long Jan'27 $13 calls opened; earlier, 1,850 Dec'27 $22 puts *sold* (bullish long-term).
+
 ## TODO
 - [ ] Add a 3Q26E column to the Estimate-vs-reality tab (JPM/HSBC/consensus pre-loaded) to score the print line-by-line live.

@@ -5,7 +5,7 @@
 
 ## The three legs (thesis doesn't need all three)
 1. **Advertising** — monetisation gap closes through execution (ad load ~7% vs peers' low-teens; eCPM; new scenarios). *Cyclical; the leg currently carrying the P&L.*
-2. **Gaming** — inflection off the San Mou base-effect trough, driven by the pipeline (Lumi Sept 2026, San Wang late Dec 2026, RO3 + Three Kingdoms: Ravage of Time in 2027). *Largely uncorrelated with ad macro — a 2027 step-function.*
+2. **Gaming** — inflection off the San Mou base-effect trough, driven by the pipeline (Lumi Sept 2026, **San Wang / "Three Kings" — open beta = commercial launch CONFIRMED 24 Dec 2026**, RO3 + Three Kingdoms: Ravage of Time in 2027). *Largely uncorrelated with ad macro — a 2027 step-function.* MS (15 Nov): San Wang annualised revenue ~RMB 1.5bn, character-based monetisation, RMB 500M R&D invested; reiterated OW, PT US$21.
 3. **Margin / operating leverage** — 16 straight quarters of GPM expansion; path to 40–45% GPM, 15–20% OPM. *Semi-independent (mix + cost discipline).*
 
 Plus a **technical catalyst**: Tencent overhang removal → now **substantially resolved** (see [tencent-deal.md](tencent-deal.md)).
