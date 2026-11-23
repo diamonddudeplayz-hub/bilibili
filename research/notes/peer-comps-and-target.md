@@ -21,15 +21,21 @@ Sources: "Chinese Tech Is Cheap. How Much of the Cash Reaches You?" (Primary Sou
 
 **Takeaway:** NetEase is the clean, lower-variance expression of *just* the China re-rate (matched fundamentals to Meta, margins already in hand). BILI already prices margin expansion into its 13.9x — you're paying up on 5% current margins, so you need your margin call to deliver *on top of* the re-rate. **Different risk shapes, same tailwind.** Sophisticated construction = **core-satellite within China**: NetEase as the jurisdiction-compression anchor (pays you to wait), BILI as the margin-inflection satellite (the alpha). If you don't back your BILI margin call, NetEase is the more honest vehicle.
 
-## Our honed 3Q26E (slight ad tilt vs street)
-| Line (RMB m) | Darren 3Q26E | Consensus |
-|---|---|---|
-| Advertising | 3,120 (+21%) | ~3,080 (+20%) |
-| VAS | 3,140 (+4.5%) | ~3,140 |
-| Mobile games | 1,410 (−7%) | ~1,395 (−8%) |
-| **Total revenue** | **8,230 (+8.4%)** | 8,279 |
-| Non-GAAP net profit | 850 | 823 |
-| Non-GAAP dil. EPS (RMB) | ~1.85 | 1.79 |
+## Our 3Q26E — RECALIBRATED to in-line (23 Nov, pre-print)
+Trimmed from a slight above-street tilt back to **in-line with JPM/consensus** — the ad macro softened further since the first cut, and being above street on the leg everyone fears is the wrong place to stand into the print. We're now measuring the print against the right bar.
+| Line (RMB m) | Darren 3Q26E (new) | was | Consensus |
+|---|---|---|---|
+| Advertising | **3,085 (+20%)** | 3,120 (+21%) | ~3,080 (+20%) |
+| VAS | 3,140 (+4.5%) | 3,140 | ~3,140 |
+| Mobile games | 1,400 (−7%) | 1,410 | ~1,395 (−8%) |
+| IP/others | 570 | 560 | ~590 |
+| **Total revenue** | **8,195 (+6.9%)** | 8,230 (+8.4%) | 8,279 |
+| Non-GAAP net profit | 830 | 850 | 823 |
+| Non-GAAP dil. EPS (RMB) | ~1.81 | ~1.85 | 1.79 |
+
+**Why:** (1) **Ad macro** — China consumption weaker (NBS 5.2%→4.6%; ecommerce budgets cut), and +20% already bakes a sharp decel from Q2's +28%, so no reason to be above it; going *below* +20% would assume the decel accelerates, which isn't yet supported (14-qtr 20%+ streak). (2) **Analysts** — JPM/HSBC both cut on ad, so consensus has *come down* = lower bar to clear. We now sit with JPM (−1% vs consensus). (3) **Transcript** — management guided ad "continuous growth" (confident) but flagged "challenging macro"; +20% respects both.
+
+**The real calibration isn't the Q3 point — it's the forward read.** Q3 is backward-looking and mostly in-line/known. What moves the stock is the **Q4 ad guide + San Wang/margin commentary**. Signal thresholds are in `research/q3_2026_scorecard.xlsx`.
 
 ## Q3 → target flow (two dials: `target = multiple × FY27 EPS`)
 Q3 barely moves the target directly; it **signals** which FY27-EPS row you land on and whether the re-rate is on.
